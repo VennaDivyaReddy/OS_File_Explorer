@@ -1,4 +1,9 @@
-# OS_File_Explorer
+# OS File Explorer Using Python
+Harshitha Balaji (22BAI1038)
+Venna Divya Reddy (22BAI1476)
+Sanjana Suresh (22BAI14329)
+Mirdulaa Balaji (22BAI1284)
+
 
 ```
 import os
