@@ -1,8 +1,8 @@
 # OS File Explorer Using Python
-Harshitha Balaji (22BAI1038)
-Venna Divya Reddy (22BAI1476)
-Sanjana Suresh (22BAI14329)
-Mirdulaa Balaji (22BAI1284)
+Harshitha Balaji (22BAI1038)<br>
+Venna Divya Reddy (22BAI1476)<br>
+Sanjana Suresh (22BAI14329)<br>
+Mirdulaa Balaji (22BAI1284)<br>
 
 
 ```
